@@ -1,0 +1,10 @@
+Dataset: Life Expectancy: Exploratory Data Analysis
+Jenis Data:
+
+Nominal: Kolom seperti 'Country' dan 'Status' adalah adalah data kategorikal yang tidak memiliki urutan atau peringkat antara kategorinya.
+Ordinal: Kolom 'Development Status' konsep ini dapat dianggap ordinal karena menunjukkan tingkat perkembangan yang dapat diurutkan.
+Interval: Kolom 'Year​' adalah Data ini memiliki interval yang sama antara nilai-nilainya, tetapi tidak memiliki nol absolut.
+Rasio: Kolom 'Life expectancy', 'GDP', 'Schooling', 'Adult Mortality', 'Infant deaths', 'Alcohol', 'BMI', 'Polio', 'Diphtheria', 'HIV/AIDS', 'Measles', 'Under-five deaths', 'Thinness 1-19 years', 'Thinness 5-9 years', 'Income composition of resources', 'Total expenditure' Kolom-kolom ini berisi data numerik yang memiliki nol absolut dan memungkinkan perbandingan rasio antar nilai. Misalnya, GDP dapat dibandingkan secara rasio antara dua negara.​
+
+
+Tautan Dataset: Life Expectancy: Exploratory Data Analysis (https://www.kaggle.com/code/philbowman212/life-expectancy-exploratory-data-analysis)
